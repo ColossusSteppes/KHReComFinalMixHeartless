@@ -1,0 +1,1554 @@
+title: FinalMixHeartlessReCoM2024 (COMPCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this COMPCPATCH Modification.
+game: Recom
+dependencies: 
+assets:
+- name: remastered\CARD\0106\CA0106.RTM\ce_006_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0106\CA0106.RTM\ce_006_tm2.dds
+- name: remastered\CARD\0109\CA0109.RTM\ce_009_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0109\CA0109.RTM\ce_009_tm2.dds
+- name: remastered\CARD\0110\CA0110.RTM\ce_010_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0110\CA0110.RTM\ce_010_tm2.dds
+- name: remastered\CARD\0111\CA0111.RTM\ce_011_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0111\CA0111.RTM\ce_011_tm2.dds
+- name: remastered\CARD\0112\CA0112.RTM\ce_012_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0112\CA0112.RTM\ce_012_tm2.dds
+- name: remastered\CARD\0113\CA0113.RTM\ce_013_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0113\CA0113.RTM\ce_013_tm2.dds
+- name: remastered\CARD\0115\CA0115.RTM\ce_015_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0115\CA0115.RTM\ce_015_tm2.dds
+- name: remastered\CARD\0117\CA0117.RTM\ce_017_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0117\CA0117.RTM\ce_017_tm2.dds
+- name: remastered\CARD\0118\CA0118.RTM\ce_018_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0118\CA0118.RTM\ce_018_tm2.dds
+- name: remastered\CARD\0119\CA0119.RTM\ce_019_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0119\CA0119.RTM\ce_019_tm2.dds
+- name: remastered\CARD\0120\CA0120.RTM\ce_020_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0120\CA0120.RTM\ce_020_tm2.dds
+- name: remastered\CARD\0122\CA0122.RTM\ce_022_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0122\CA0122.RTM\ce_022_tm2.dds
+- name: remastered\CARD\0125\CA0125.RTM\ce_025_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0125\CA0125.RTM\ce_025_tm2.dds
+- name: remastered\CARD\0126\CA0126.RTM\ce_026_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0126\CA0126.RTM\ce_026_tm2.dds
+- name: remastered\CARD\0127\CA0127.RTM\ce_027_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0127\CA0127.RTM\ce_027_tm2.dds
+- name: remastered\CARD\0129\CA0129.RTM\ce_029_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0129\CA0129.RTM\ce_029_tm2.dds
+- name: remastered\CARD\0130\CA0130.RTM\ce_030_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0130\CA0130.RTM\ce_030_tm2.dds
+- name: remastered\CARD\0131\CA0131.RTM\ce_031_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0131\CA0131.RTM\ce_031_tm2.dds
+- name: remastered\CARD\0135\CA0135.RTM\ce_035_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0135\CA0135.RTM\ce_035_tm2.dds
+- name: remastered\CARD\0137\CA0137.RTM\ce_037_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0137\CA0137.RTM\ce_037_tm2.dds
+- name: remastered\CARD\0138\CA0138.RTM\ce_038_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\0138\CA0138.RTM\ce_038_tm2.dds
+- name: remastered\CARD\9007\CA9007.RTM\ce_025_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\CARD\9007\CA9007.RTM\ce_025_tm2.dds
+- name: remastered\ENEMY\0002\EN0002.RTM\m_ex010_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0002\EN0002.RTM\m_ex010_01_tm2.dds
+- name: remastered\ENEMY\0002\EN0002.RTM\m_ex010_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0002\EN0002.RTM\m_ex010_02_tm2.dds
+- name: remastered\ENEMY\0002\EN0002.RTM\m_ex010_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0002\EN0002.RTM\m_ex010_03_tm2.dds
+- name: remastered\ENEMY\0002\EN0002.RTM\m_ex010_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0002\EN0002.RTM\m_ex010_04_tm2.dds
+- name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_01_tm2.dds
+- name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_02_tm2.dds
+- name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_03_tm2.dds
+- name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_04_tm2.dds
+- name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_05_tm2.dds
+- name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0007\EN0007.RTM\ex_2030_06_tm2.dds
+- name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_01_tm2.dds
+- name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_02_tm2.dds
+- name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_03_tm2.dds
+- name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_04_tm2.dds
+- name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0008\EN0008.RTM\ex_2040_05_tm2.dds
+- name: remastered\ENEMY\0009\EN0009.RTM\m_ex050_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0009\EN0009.RTM\m_ex050_01_tm2.dds
+- name: remastered\ENEMY\0009\EN0009.RTM\m_ex050_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0009\EN0009.RTM\m_ex050_02_tm2.dds
+- name: remastered\ENEMY\0009\EN0009.RTM\m_ex050_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0009\EN0009.RTM\m_ex050_03_tm2.dds
+- name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_01_tm2.dds
+- name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_02_tm2.dds
+- name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_03_tm2.dds
+- name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_04_tm2.dds
+- name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_05_tm2.dds
+- name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0010\EN0010.RTM\ex_2060_06_tm2.dds
+- name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_01_tm2.dds
+- name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_02_tm2.dds
+- name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_03_tm2.dds
+- name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_04_tm2.dds
+- name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_05_tm2.dds
+- name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0011\EN0011.RTM\ex_2090_06_tm2.dds
+- name: remastered\ENEMY\0012\EN0012.RTM\m_ex200_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0012\EN0012.RTM\m_ex200_01_tm2.dds
+- name: remastered\ENEMY\0012\EN0012.RTM\m_ex200_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0012\EN0012.RTM\m_ex200_02_tm2.dds
+- name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_01_tm2.dds
+- name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_02_tm2.dds
+- name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_03_tm2.dds
+- name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_04_tm2.dds
+- name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_05_tm2.dds
+- name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0013\EN0013.RTM\ex_2220_06_tm2.dds
+- name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_01_tm2.dds
+- name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_02_tm2.dds
+- name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_03_tm2.dds
+- name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_04_tm2.dds
+- name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_05_tm2.dds
+- name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_06_tm2.dds
+- name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_07_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0014\EN0014.RTM\ex_2230_07_tm2.dds
+- name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_01_tm2.dds
+- name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_02_tm2.dds
+- name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_03_tm2.dds
+- name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_04_tm2.dds
+- name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_05_tm2.dds
+- name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0015\EN0015.RTM\ex_2160_06_tm2.dds
+- name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_01_tm2.dds
+- name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_02_tm2.dds
+- name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_03_tm2.dds
+- name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_04_tm2.dds
+- name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_05_tm2.dds
+- name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0018\EN0018.RTM\ex_2070_06_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_08_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_08_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_09_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_09_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_10_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_10_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_11_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_11_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_12_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_12_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_13_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_13_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_14_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_14_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_15_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_15_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_16_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_16_tm2.dds
+- name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_17_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0020\EN0020.RTM\ex_2240_17_tm2.dds
+- name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_01_tm2.dds
+- name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_02_tm2.dds
+- name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_03_tm2.dds
+- name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0022\EN0022.RTM\m_ex210_04_tm2.dds
+- name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_01_tm2.dds
+- name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_02_tm2.dds
+- name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_03_tm2.dds
+- name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_04_tm2.dds
+- name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_05_tm2.dds
+- name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0024\EN0024.RTM\ex_2320_06_tm2.dds
+- name: remastered\ENEMY\0029\EN0029.RTM\m_ex730_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0029\EN0029.RTM\m_ex730_01_tm2.dds
+- name: remastered\ENEMY\0030\EN0030.RTM\klaxon_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0030\EN0030.RTM\klaxon_01_tm2.dds
+- name: remastered\ENEMY\0030\EN0030.RTM\klaxon_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0030\EN0030.RTM\klaxon_02_tm2.dds
+- name: remastered\ENEMY\0030\EN0030.RTM\klaxon_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0030\EN0030.RTM\klaxon_03_tm2.dds
+- name: remastered\ENEMY\0031\EN0031.RTM\m_ex_750_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0031\EN0031.RTM\m_ex_750_01_tm2.dds
+- name: remastered\ENEMY\0031\EN0031.RTM\m_ex_750_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0031\EN0031.RTM\m_ex_750_02_tm2.dds
+- name: remastered\ENEMY\0031\EN0031.RTM\m_ex_750_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0031\EN0031.RTM\m_ex_750_03_tm2.dds
+- name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_01_tm2.dds
+- name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_02_tm2.dds
+- name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_03_tm2.dds
+- name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_04_tm2.dds
+- name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_05_tm2.dds
+- name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_06_tm2.dds
+- name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_07_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0033\EN0033.RTM\ex_2230_07_tm2.dds
+- name: remastered\ENEMY\0036\EN0036.RTM\m_ex_750_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0036\EN0036.RTM\m_ex_750_01_tm2.dds
+- name: remastered\ENEMY\0036\EN0036.RTM\m_ex_750_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0036\EN0036.RTM\m_ex_750_02_tm2.dds
+- name: remastered\ENEMY\0036\EN0036.RTM\m_ex_750_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0036\EN0036.RTM\m_ex_750_03_tm2.dds
+- name: remastered\ENEMY\0102\EN0102.RTM\tw_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0102\EN0102.RTM\tw_3000_01_tm2.dds
+- name: remastered\ENEMY\0102\EN0102.RTM\tw_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0102\EN0102.RTM\tw_3000_02_tm2.dds
+- name: remastered\ENEMY\0105\EN0105.RTM\aw_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0105\EN0105.RTM\aw_3000_01_tm2.dds
+- name: remastered\ENEMY\0105\EN0105.RTM\aw_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0105\EN0105.RTM\aw_3000_02_tm2.dds
+- name: remastered\ENEMY\0105\EN0105.RTM\aw_3000_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0105\EN0105.RTM\aw_3000_03_tm2.dds
+- name: remastered\ENEMY\0110\EN0110.RTM\pi_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0110\EN0110.RTM\pi_3000_01_tm2.dds
+- name: remastered\ENEMY\0110\EN0110.RTM\pi_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0110\EN0110.RTM\pi_3000_02_tm2.dds
+- name: remastered\ENEMY\0110\EN0110.RTM\pi_3000_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0110\EN0110.RTM\pi_3000_03_tm2.dds
+- name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_01_tm2.dds
+- name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_02_tm2.dds
+- name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_03_tm2.dds
+- name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_04_tm2.dds
+- name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_05_tm2.dds
+- name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0303\EN0303.RTM\ex_2030_06_tm2.dds
+- name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_01_tm2.dds
+- name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_02_tm2.dds
+- name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_03_tm2.dds
+- name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_04_tm2.dds
+- name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\ENEMY\0304\EN0304.RTM\ex_2040_05_tm2.dds
+- name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_01_tm2.dds
+- name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_02_tm2.dds
+- name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_03_tm2.dds
+- name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_04_tm2.dds
+- name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_05_tm2.dds
+- name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_06_tm2.dds
+- name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_07_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0009\GM0009.RTM\ex_2230_07_tm2.dds
+- name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_01_tm2.dds
+- name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_02_tm2.dds
+- name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_03_tm2.dds
+- name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_04_tm2.dds
+- name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_05_tm2.dds
+- name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0011\GM0011.RTM\ex_2070_06_tm2.dds
+- name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_01_tm2.dds
+- name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_02_tm2.dds
+- name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_03_tm2.dds
+- name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_04_tm2.dds
+- name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_05_tm2.dds
+- name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0013\GM0013.RTM\ex_2160_06_tm2.dds
+- name: remastered\GIMMICK\0014\GM0014.RTM\m_ex730_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\GIMMICK\0014\GM0014.RTM\m_ex730_01_tm2.dds
+- name: remastered\NPC\0110\NP0110.RTM\tw_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0110\NP0110.RTM\tw_3000_01_tm2.dds
+- name: remastered\NPC\0110\NP0110.RTM\tw_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0110\NP0110.RTM\tw_3000_02_tm2.dds
+- name: remastered\NPC\0111\NP0111.RTM\n111_00_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0111\NP0111.RTM\n111_00_tm2.dds
+- name: remastered\NPC\0411\NP0411.RTM\aw_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0411\NP0411.RTM\aw_3000_01_tm2.dds
+- name: remastered\NPC\0411\NP0411.RTM\aw_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0411\NP0411.RTM\aw_3000_02_tm2.dds
+- name: remastered\NPC\0411\NP0411.RTM\aw_3000_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0411\NP0411.RTM\aw_3000_03_tm2.dds
+- name: remastered\NPC\0416\NP0416.RTM\n416_00_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0416\NP0416.RTM\n416_00_tm2.dds
+- name: remastered\NPC\0507\NP0507.RTM\pi_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0507\NP0507.RTM\pi_3000_01_tm2.dds
+- name: remastered\NPC\0507\NP0507.RTM\pi_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0507\NP0507.RTM\pi_3000_02_tm2.dds
+- name: remastered\NPC\0507\NP0507.RTM\pi_3000_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0507\NP0507.RTM\pi_3000_03_tm2.dds
+- name: remastered\NPC\0508\NP0508.RTM\n508_00_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\0508\NP0508.RTM\n508_00_tm2.dds
+- name: remastered\NPC\2070\NP2070.RTM\m_ex010_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2070\NP2070.RTM\m_ex010_01_tm2.dds
+- name: remastered\NPC\2070\NP2070.RTM\m_ex010_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2070\NP2070.RTM\m_ex010_02_tm2.dds
+- name: remastered\NPC\2070\NP2070.RTM\m_ex010_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2070\NP2070.RTM\m_ex010_03_tm2.dds
+- name: remastered\NPC\2070\NP2070.RTM\m_ex010_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2070\NP2070.RTM\m_ex010_04_tm2.dds
+- name: remastered\NPC\2071\NP2071.RTM\m_ex050_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2071\NP2071.RTM\m_ex050_01_tm2.dds
+- name: remastered\NPC\2071\NP2071.RTM\m_ex050_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2071\NP2071.RTM\m_ex050_02_tm2.dds
+- name: remastered\NPC\2071\NP2071.RTM\m_ex050_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2071\NP2071.RTM\m_ex050_03_tm2.dds
+- name: remastered\NPC\2076\NP2076.RTM\ex_2030_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2076\NP2076.RTM\ex_2030_01_tm2.dds
+- name: remastered\NPC\2076\NP2076.RTM\ex_2030_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2076\NP2076.RTM\ex_2030_02_tm2.dds
+- name: remastered\NPC\2076\NP2076.RTM\ex_2030_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2076\NP2076.RTM\ex_2030_03_tm2.dds
+- name: remastered\NPC\2076\NP2076.RTM\ex_2030_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2076\NP2076.RTM\ex_2030_04_tm2.dds
+- name: remastered\NPC\2076\NP2076.RTM\ex_2030_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2076\NP2076.RTM\ex_2030_05_tm2.dds
+- name: remastered\NPC\2076\NP2076.RTM\ex_2030_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2076\NP2076.RTM\ex_2030_06_tm2.dds
+- name: remastered\NPC\2077\NP2077.RTM\ex_2040_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2077\NP2077.RTM\ex_2040_01_tm2.dds
+- name: remastered\NPC\2077\NP2077.RTM\ex_2040_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2077\NP2077.RTM\ex_2040_02_tm2.dds
+- name: remastered\NPC\2077\NP2077.RTM\ex_2040_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2077\NP2077.RTM\ex_2040_03_tm2.dds
+- name: remastered\NPC\2077\NP2077.RTM\ex_2040_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2077\NP2077.RTM\ex_2040_04_tm2.dds
+- name: remastered\NPC\2077\NP2077.RTM\ex_2040_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2077\NP2077.RTM\ex_2040_05_tm2.dds
+- name: remastered\NPC\2078\NP2078.RTM\ex_2160_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2078\NP2078.RTM\ex_2160_01_tm2.dds
+- name: remastered\NPC\2078\NP2078.RTM\ex_2160_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2078\NP2078.RTM\ex_2160_02_tm2.dds
+- name: remastered\NPC\2078\NP2078.RTM\ex_2160_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2078\NP2078.RTM\ex_2160_03_tm2.dds
+- name: remastered\NPC\2078\NP2078.RTM\ex_2160_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2078\NP2078.RTM\ex_2160_04_tm2.dds
+- name: remastered\NPC\2078\NP2078.RTM\ex_2160_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2078\NP2078.RTM\ex_2160_05_tm2.dds
+- name: remastered\NPC\2078\NP2078.RTM\ex_2160_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2078\NP2078.RTM\ex_2160_06_tm2.dds
+- name: remastered\NPC\2079\NP2079.RTM\ex_2090_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2079\NP2079.RTM\ex_2090_01_tm2.dds
+- name: remastered\NPC\2079\NP2079.RTM\ex_2090_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2079\NP2079.RTM\ex_2090_02_tm2.dds
+- name: remastered\NPC\2079\NP2079.RTM\ex_2090_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2079\NP2079.RTM\ex_2090_03_tm2.dds
+- name: remastered\NPC\2079\NP2079.RTM\ex_2090_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2079\NP2079.RTM\ex_2090_04_tm2.dds
+- name: remastered\NPC\2079\NP2079.RTM\ex_2090_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2079\NP2079.RTM\ex_2090_05_tm2.dds
+- name: remastered\NPC\2079\NP2079.RTM\ex_2090_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2079\NP2079.RTM\ex_2090_06_tm2.dds
+- name: remastered\NPC\2080\NP2080.RTM\ex_2060_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2080\NP2080.RTM\ex_2060_01_tm2.dds
+- name: remastered\NPC\2080\NP2080.RTM\ex_2060_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2080\NP2080.RTM\ex_2060_02_tm2.dds
+- name: remastered\NPC\2080\NP2080.RTM\ex_2060_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2080\NP2080.RTM\ex_2060_03_tm2.dds
+- name: remastered\NPC\2080\NP2080.RTM\ex_2060_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2080\NP2080.RTM\ex_2060_04_tm2.dds
+- name: remastered\NPC\2080\NP2080.RTM\ex_2060_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2080\NP2080.RTM\ex_2060_05_tm2.dds
+- name: remastered\NPC\2080\NP2080.RTM\ex_2060_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2080\NP2080.RTM\ex_2060_06_tm2.dds
+- name: remastered\NPC\2082\NP2082.RTM\n_2082_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2082\NP2082.RTM\n_2082_01_tm2.dds
+- name: remastered\NPC\2082\NP2082.RTM\n_2082_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2082\NP2082.RTM\n_2082_02_tm2.dds
+- name: remastered\NPC\2082\NP2082.RTM\n_2082_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2082\NP2082.RTM\n_2082_03_tm2.dds
+- name: remastered\NPC\2082\NP2082.RTM\n_2082_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2082\NP2082.RTM\n_2082_04_tm2.dds
+- name: remastered\NPC\2082\NP2082.RTM\n_2082_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2082\NP2082.RTM\n_2082_05_tm2.dds
+- name: remastered\NPC\2082\NP2082.RTM\n_2082_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2082\NP2082.RTM\n_2082_06_tm2.dds
+- name: remastered\NPC\2082\NP2082.RTM\n_2082_07_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2082\NP2082.RTM\n_2082_07_tm2.dds
+- name: remastered\NPC\2083\NP2083.RTM\ex_2070_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2083\NP2083.RTM\ex_2070_01_tm2.dds
+- name: remastered\NPC\2083\NP2083.RTM\ex_2070_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2083\NP2083.RTM\ex_2070_02_tm2.dds
+- name: remastered\NPC\2083\NP2083.RTM\ex_2070_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2083\NP2083.RTM\ex_2070_03_tm2.dds
+- name: remastered\NPC\2083\NP2083.RTM\ex_2070_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2083\NP2083.RTM\ex_2070_04_tm2.dds
+- name: remastered\NPC\2083\NP2083.RTM\ex_2070_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2083\NP2083.RTM\ex_2070_05_tm2.dds
+- name: remastered\NPC\2083\NP2083.RTM\ex_2070_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2083\NP2083.RTM\ex_2070_06_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_08_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_08_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_09_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_09_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_10_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_10_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_11_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_11_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_12_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_12_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_13_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_13_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_14_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_14_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_15_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_15_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_16_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_16_tm2.dds
+- name: remastered\NPC\2085\NP2085.RTM\ex_2240_17_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2085\NP2085.RTM\ex_2240_17_tm2.dds
+- name: remastered\NPC\2086\NP2086.RTM\m_ex200_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2086\NP2086.RTM\m_ex200_01_tm2.dds
+- name: remastered\NPC\2086\NP2086.RTM\m_ex200_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2086\NP2086.RTM\m_ex200_02_tm2.dds
+- name: remastered\NPC\2087\NP2087.RTM\ex_2220_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2087\NP2087.RTM\ex_2220_01_tm2.dds
+- name: remastered\NPC\2087\NP2087.RTM\ex_2220_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2087\NP2087.RTM\ex_2220_02_tm2.dds
+- name: remastered\NPC\2087\NP2087.RTM\ex_2220_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2087\NP2087.RTM\ex_2220_03_tm2.dds
+- name: remastered\NPC\2087\NP2087.RTM\ex_2220_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2087\NP2087.RTM\ex_2220_04_tm2.dds
+- name: remastered\NPC\2087\NP2087.RTM\ex_2220_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2087\NP2087.RTM\ex_2220_05_tm2.dds
+- name: remastered\NPC\2087\NP2087.RTM\ex_2220_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2087\NP2087.RTM\ex_2220_06_tm2.dds
+- name: remastered\NPC\2089\NP2089.RTM\m_ex210_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2089\NP2089.RTM\m_ex210_01_tm2.dds
+- name: remastered\NPC\2089\NP2089.RTM\m_ex210_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2089\NP2089.RTM\m_ex210_02_tm2.dds
+- name: remastered\NPC\2089\NP2089.RTM\m_ex210_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2089\NP2089.RTM\m_ex210_03_tm2.dds
+- name: remastered\NPC\2089\NP2089.RTM\m_ex210_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2089\NP2089.RTM\m_ex210_04_tm2.dds
+- name: remastered\NPC\2092\NP2092.RTM\ex_2320_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2092\NP2092.RTM\ex_2320_01_tm2.dds
+- name: remastered\NPC\2092\NP2092.RTM\ex_2320_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2092\NP2092.RTM\ex_2320_02_tm2.dds
+- name: remastered\NPC\2092\NP2092.RTM\ex_2320_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2092\NP2092.RTM\ex_2320_03_tm2.dds
+- name: remastered\NPC\2092\NP2092.RTM\ex_2320_04_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2092\NP2092.RTM\ex_2320_04_tm2.dds
+- name: remastered\NPC\2092\NP2092.RTM\ex_2320_05_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2092\NP2092.RTM\ex_2320_05_tm2.dds
+- name: remastered\NPC\2092\NP2092.RTM\ex_2320_06_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2092\NP2092.RTM\ex_2320_06_tm2.dds
+- name: remastered\NPC\2097\NP2097.RTM\n_2097_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2097\NP2097.RTM\n_2097_01_tm2.dds
+- name: remastered\NPC\2097\NP2097.RTM\n_2097_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2097\NP2097.RTM\n_2097_02_tm2.dds
+- name: remastered\NPC\2097\NP2097.RTM\n_2097_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2097\NP2097.RTM\n_2097_03_tm2.dds
+- name: remastered\NPC\2098\NP2098.RTM\m_ex730_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2098\NP2098.RTM\m_ex730_01_tm2.dds
+- name: remastered\NPC\2099\NP2099.RTM\klaxon_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2099\NP2099.RTM\klaxon_01_tm2.dds
+- name: remastered\NPC\2099\NP2099.RTM\klaxon_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2099\NP2099.RTM\klaxon_02_tm2.dds
+- name: remastered\NPC\2099\NP2099.RTM\klaxon_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2099\NP2099.RTM\klaxon_03_tm2.dds
+- name: remastered\NPC\2100\NP2100.RTM\tw_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2100\NP2100.RTM\tw_3000_01_tm2.dds
+- name: remastered\NPC\2100\NP2100.RTM\tw_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2100\NP2100.RTM\tw_3000_02_tm2.dds
+- name: remastered\NPC\2101\NP2101.RTM\pi_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2101\NP2101.RTM\pi_3000_01_tm2.dds
+- name: remastered\NPC\2101\NP2101.RTM\pi_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2101\NP2101.RTM\pi_3000_02_tm2.dds
+- name: remastered\NPC\2101\NP2101.RTM\pi_3000_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2101\NP2101.RTM\pi_3000_03_tm2.dds
+- name: remastered\NPC\2102\NP2102.RTM\aw_3000_01_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2102\NP2102.RTM\aw_3000_01_tm2.dds
+- name: remastered\NPC\2102\NP2102.RTM\aw_3000_02_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2102\NP2102.RTM\aw_3000_02_tm2.dds
+- name: remastered\NPC\2102\NP2102.RTM\aw_3000_03_tm2.dds
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: remastered\NPC\2102\NP2102.RTM\aw_3000_03_tm2.dds
